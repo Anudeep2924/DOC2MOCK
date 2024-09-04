@@ -1,6 +1,6 @@
-# Doc2Mock Project
+# DOC2MOCK
 
-Doc2Mock is a web application built using the MERN stack that converts PDF, DOC, and image files into online multiple-choice quizzes (MCQs). It provides a seamless solution for teachers to create quizzes and for students to attempt them through a generated quiz interface.
+DOc2MOCK is a web application built using the MERN stack that converts PDF, DOC, and image files into online multiple-choice quizzes (MCQs). It provides a seamless solution for teachers to create quizzes and for students to attempt them through a generated quiz interface.
 
 ## Features
 
