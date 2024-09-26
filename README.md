@@ -30,14 +30,42 @@ DOc2MOCK is a web application built using the MERN stack that converts PDF, DOC,
 
 ## Screenshots
 
-![Screenshot 1](path-to-screenshot-1)
-![Screenshot 2](path-to-screenshot-2)
-![Screenshot 3](path-to-screenshot-3)
-![Screenshot 4](path-to-screenshot-4)
-![Screenshot 5](path-to-screenshot-5)
-![Screenshot 6](path-to-screenshot-6)
-![Screenshot 7](path-to-screenshot-7)
-![Screenshot 8](path-to-screenshot-8)
-![Screenshot 9](path-to-screenshot-9)
-![Screenshot 10](path-to-screenshot-10)
-![Screenshot 11](path-to-screenshot-11)
+### Home Page
+![Screenshot 0](folder1/og_home.png)
+
+### Registration Page
+![Screenshot 1](folder1/regis.png)
+
+### Login Page
+![Screenshot 2](folder1/logi.png)
+
+### Teacher Home Page
+![Screenshot 3](folder1/t_home.png)
+
+### Create Quiz Page
+![Screenshot 4](folder1/t_creat.png)
+
+### Upload Quiz Content Page
+![Screenshot 5](folder1/t_uplo.png)
+
+### Display Uploaded Quiz
+![Screenshot 6](folder1/t_disp.png)
+
+### Teacher Quiz List Page
+![Screenshot 7](folder1/t_quizs.png)
+
+### Quiz Results Page (Teacher View)
+![Screenshot 8](folder1/t_quiz_res.png)
+
+### Student Home Page
+![Screenshot 9](folder1/s_home.png)
+
+### Student Enter Quiz Page
+![Screenshot 10](folder1/s_test_enter.png)
+
+### Student Quiz Display Page
+![Screenshot 11](folder1/s_quiz_dis.png)
+
+### Student Quiz Results Page
+![Screenshot 12](folder1/s_results.png)
+
