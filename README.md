@@ -14,7 +14,7 @@ DOc2MOCK is a web application built using the MERN stack that converts PDF, DOC,
 - **Frontend:** HTML5, CSS3, JavaScript, React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **File Processing:**  pdfjs (for PDF text extraction), tesseract.js
+- **File Processing:** pdfjs (for PDF text extraction), tesseract.js
 
 ## Workflow
 
@@ -27,3 +27,17 @@ DOc2MOCK is a web application built using the MERN stack that converts PDF, DOC,
    - Students enter the quiz using the code shared by the teacher.
    - They attempt the quiz through a dynamic and interactive user interface.
    - Upon completion, results are stored and can be reviewed by the teacher.
+
+## Screenshots
+
+![Screenshot 1](path-to-screenshot-1)
+![Screenshot 2](path-to-screenshot-2)
+![Screenshot 3](path-to-screenshot-3)
+![Screenshot 4](path-to-screenshot-4)
+![Screenshot 5](path-to-screenshot-5)
+![Screenshot 6](path-to-screenshot-6)
+![Screenshot 7](path-to-screenshot-7)
+![Screenshot 8](path-to-screenshot-8)
+![Screenshot 9](path-to-screenshot-9)
+![Screenshot 10](path-to-screenshot-10)
+![Screenshot 11](path-to-screenshot-11)
