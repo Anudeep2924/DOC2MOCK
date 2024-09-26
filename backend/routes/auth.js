@@ -64,7 +64,7 @@ router.post('/newTeacher', [
     body('email').isEmail(),
     body('password').isLength({ min: 5 }),
     body('name').isLength({ min: 3 }),
-    body('organizationName').isLength({ min: 7 })
+    body('organizationName').isLength({ min: 0 })
 ], async (req, res) => {
 
     let success = false;
